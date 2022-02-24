@@ -20,11 +20,10 @@
 * Create a virtual environment  
   * on **Windows PowerShell**: `python -m venv env`
 * Activate the *env* 
-  * on **Windows PowerShell**: `.\env\Scripts\Activate.ps1` 
+  * on **Windows PowerShell**: `.\env\Scripts\Activate` 
 
-**Note** : On Windows, it may be required to enable the Activate.ps1 script by setting the execution policy for the user. You can do this by issuing the following command: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+
 
 ### Running server
 
-* Change directory to **Django_** `cd Django_`
 * Run the server `python manage.py runserver`
