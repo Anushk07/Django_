@@ -20,10 +20,12 @@
 * Create a virtual environment  
   * on **Windows PowerShell**: `python -m venv env`
 * Activate the *env* 
-  * on **Windows PowerShell**: `.\env\Scripts\Activate` 
+  * on **Windows PowerShell**: `.\env\Scripts\Activate` or `.\env\Scripts\Activate.ps1`
 
 
 
 ### Running server
 
 * Run the server `python manage.py runserver`
+
+![Screenshot](login.jpg)
