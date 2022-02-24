@@ -26,7 +26,12 @@
 
 ### Running server
 
-* Run the server `python manage.py runserver`
+* Run the server `python manage.py runserver` 
+
+### Running server
+
+* Username: kgayush
+* Password: Kgayush
 
 ### Screenshots
 
