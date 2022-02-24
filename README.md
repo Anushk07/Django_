@@ -28,4 +28,34 @@
 
 * Run the server `python manage.py runserver`
 
-![Screenshot](login.jpg)
+### Screenshots
+
+* Login 
+
+ ![Screenshot](Screenshots/login.jpg)
+ 
+* Login Validation
+
+ ![Screenshot](Screenshots/InvalidCredentials.jpg)
+ 
+* My Todo  
+ 
+ ![Screenshot](Screenshots/MyTodo.jpg)
+ 
+* Add Todo 
+ 
+ ![Screenshot](Screenshots/AddTodo.jpg)
+ 
+* Update 
+ 
+ ![Screenshot](Screenshots/Update.jpg)
+ 
+* Delete 
+ 
+ ![Screenshot](Screenshots/Deleted.jpg)
+ 
+* Logout 
+ 
+ ![Screenshot](Screenshots/Logout.jpg)
+ 
+ 
